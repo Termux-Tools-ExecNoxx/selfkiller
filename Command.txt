@@ -1,0 +1,13 @@
+Selfkiller - Powerful Mobile Malware Toolkit
+
+Introduction
+
+Selfkiller is a comprehensive mobile malware toolkit that allows users to create powerful viruses with stealth capabilities. Please note that this toolkit is intended for educational and research purposes only. The use of malicious software is illegal and unethical.
+
+INSTALLATION
+
+git clone https://github.com/GH05T-HUNTER5/selfkiller
+cd selfkiller
+chmod +x selfkiller
+python3 install.py
+selfkiller
